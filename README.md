@@ -1,4 +1,4 @@
-# ?? Calculadora de IMC
+Ôªø# üßÆ Calculadora de IMC
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=180&section=header&text=Calculadora%20de%20IMC&fontSize=36&fontColor=ffffff" alt="Banner Calculadora de IMC" />
@@ -7,36 +7,36 @@
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 8" />
   <img src="https://img.shields.io/badge/C%23-12.0-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# 12" />
-  <img src="https://img.shields.io/badge/Tipo-Console-blue?style=for-the-badge" alt="AplicaÁ„o Console" />
+  <img src="https://img.shields.io/badge/Tipo-Console-blue?style=for-the-badge" alt="Aplica√ß√£o Console" />
 </p>
 
-Projeto de console em `C#` para c·lculo de **IMC (Õndice de Massa Corporal)** e exibiÁ„o do **estado nutricional** com base no resultado.
+Projeto de console em `C#` para c√°lculo de **IMC (√çndice de Massa Corporal)** e exibi√ß√£o do **estado nutricional** com base no resultado.
 
-> ?? Este projeto possui finalidade **educacional/ilustrativa** e n„o substitui avaliaÁ„o mÈdica ou nutricional.
+> ‚ö†Ô∏è Este projeto possui finalidade **educacional/ilustrativa** e n√£o substitui avalia√ß√£o m√©dica ou nutricional.
 
 ---
 
-## ? O que este projeto faz
+## ‚ú® O que este projeto faz
 
-- Solicita ao usu·rio:
+- Solicita ao usu√°rio:
   - Peso (kg)
   - Altura (m)
   - Idade
   - Sexo (`M` ou `F`)
-- Calcula o IMC com a fÛrmula:
+- Calcula o IMC com a f√≥rmula:
 
 ```text
-IMC = peso / (altura ◊ altura)
+IMC = peso / (altura √ó altura)
 ```
 
 - Retorna o valor formatado com duas casas decimais.
-- Informa a classificaÁ„o nutricional.
+- Informa a classifica√ß√£o nutricional.
 
 ---
 
-## ?? Faixas de classificaÁ„o utilizadas
+## üìä Faixas de classifica√ß√£o utilizadas
 
-| IMC | ClassificaÁ„o |
+| IMC | Classifica√ß√£o |
 |---|---|
 | `< 16` | Magreza grau III |
 | `16 a 16,99` | Magreza grau II |
@@ -49,9 +49,9 @@ IMC = peso / (altura ◊ altura)
 
 ---
 
-## ?? Como executar
+## üöÄ Como executar
 
-### PrÈ-requisitos
+### Pr√©-requisitos
 
 - SDK do `.NET 8` instalado
 
@@ -64,10 +64,10 @@ dotnet run
 
 ---
 
-## ?? Exemplo de uso
+## üß™ Exemplo de uso
 
 ```text
-Calculadora de IMC (Õndice de Massa Corporal)
+Calculadora de IMC (√çndice de Massa Corporal)
 Por favor, insira o seu peso em quilogramas:
 70
 Agora, insira a sua altura em metros:
@@ -76,22 +76,22 @@ Insira a sua idade:
 28
 Por fim, insira o seu sexo (M para masculino, F para feminino):
 M
-Seu IMC È: 22,86
-Seu estado nutricional È: Eutrofia
+Seu IMC √©: 22,86
+Seu estado nutricional √©: Eutrofia
 ```
 
 ---
 
-## ?? Estrutura do projeto
+## üß± Estrutura do projeto
 
 ```text
 Calculadora-IMC/
-??? Program.cs
-??? README.md
+‚îú‚îÄ‚îÄ Program.cs
+‚îî‚îÄ‚îÄ README.md
 ```
 
 ---
 
 <p align="center">
-  Feito com <strong>C#</strong>, <strong>.NET</strong> e um toque de ??
+  Feito com <strong>C#</strong>, <strong>.NET</strong> e um toque de ü©∫
 </p>
